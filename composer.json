@@ -1,5 +1,5 @@
 {
-    "name": "bogdaan/viber-bot-php",
+    "name": "wistis/viber-bot-php",
     "description": "Php bot interface to work with Viber API",
     "keywords": ["viber", "im", "bot"],
     "type": "library",
@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "guzzlehttp/guzzle": "^6.2"
+        "guzzlehttp/guzzle": "7.*"
     },
     "autoload": {
         "psr-4": {
